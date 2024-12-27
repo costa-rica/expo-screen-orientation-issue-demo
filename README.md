@@ -1,9 +1,6 @@
 # Orientation Listening Issue with iOS and expo-screen-orientation
 
-<video controls>
-  <source src="./docs/orientationIssue.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![gif demo](./docs/orientationIssue.gif)
 
 ## Summary of issue
 
