@@ -11,7 +11,7 @@ I have implemented this with a screen containing two buttons:
 1. One button unlocks the device orientation using ScreenOrientation.unlockAsync().
 2. The second button activates ScreenOrientation.addOrientationChangeListener().
 
-As demonstrated in the video linked in my GitHub repo’s README, this setup works flawlessly on Android. However, on iOS, the second button fails to activate the listener, and switching orientation results in freezing.
+As demonstrated in the video linked in my GitHub repo’s README, this setup works on Android. However, on iOS, the second button fails to activate the listener, and switching orientation results in freezing.
 
 I tested this with various configurations in app.json (e.g., "orientation": "portrait", "default", "ALL", "DEFAULT") but encountered the same issue consistently.
 
