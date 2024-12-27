@@ -1,4 +1,6 @@
-# Orientation Listening Issue with iOS and expo-screen-orientation
+# expo-screen-orientation-issue-demo
+
+ScreenOrientation.addOrientationChangeListener() Freezes iOS Devices in Expo SDK 52
 
 ![gif demo](./docs/orientationIssue.gif)
 
